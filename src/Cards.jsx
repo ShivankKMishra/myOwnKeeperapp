@@ -14,10 +14,7 @@ props.deleteCard(props.index)
         </div>
 
         <div>{props.note}</div>
-        <button onClick={
-            handleDelete
-        }>
-</button>Delete
+        <button onClick={ handleDelete}>Delete</button>
     </div>)
 }
 export default Cards;
