@@ -1,0 +1,55 @@
+.Header{
+    background-color: #104447;
+    color: #F0EADD;
+    padding: 1rem;
+    margin: 0 0 ;
+    border-radius: 20px;
+}
+body{
+    background-color: #F0EADD;
+}
+
+.cards{
+    background-color: #e5eef7;
+    margin: 1rem;
+    width: 20rem;
+    height: auto;
+    padding: 1rem;
+    border-radius: 30px;
+}
+
+input {
+    border: none;
+    border-radius: 2px;
+    padding: 10px;
+    outline: none;
+    background: none;
+}
+button {
+    border: none;
+    background-color: black;
+    color: #e5eef7;
+    border-radius: 15px;
+}
+
+.inputField{
+  
+    background-color: #e5eef7;
+    margin: 1rem;
+    width: 20rem;
+    height: auto;
+    padding: 1rem;
+    border-radius: 30px;
+}
+
+.inputField  button {
+    position: relative;
+    left:50px;
+    top: 30px;
+   padding: 0.5rem;
+    border-radius: 100% ;
+}
+
+.cards button {
+    margin: 0.5rem;
+}
