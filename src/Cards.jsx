@@ -17,7 +17,7 @@ props.deleteCard(props.index)
         <button onClick={
             handleDelete
         }>
-</button>
+</button>Delete
     </div>)
 }
 export default Cards;
